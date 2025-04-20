@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("resep_langkah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+272054b964d13818272ab66adfede5032981e08c")]
 [assembly: System.Reflection.AssemblyProductAttribute("resep_langkah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("resep_langkah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
