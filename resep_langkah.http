@@ -1,0 +1,6 @@
+@resep_langkah_HostAddress = http://localhost:5034
+
+GET {{resep_langkah_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

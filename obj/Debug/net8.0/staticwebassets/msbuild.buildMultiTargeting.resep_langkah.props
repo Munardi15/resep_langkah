@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\resep_langkah.props" />
+</Project>
